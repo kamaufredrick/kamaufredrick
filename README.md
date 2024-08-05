@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamaufredrick
 - 👀 I’m interested in web application development
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on web app development
 - 📫 How to reach me: Via social media
 - 😄 Pronouns: he/him
