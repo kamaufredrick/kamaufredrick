@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kamaufredrick
 - 👀 I’m interested in web application development
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Express.js 
 - 💞️ I’m looking to collaborate on web app development
-- 📫 How to reach me: Via social media
+- 📫 How to reach me: Via any of the channels I have provided in my profile
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Octopuses have three hearts 
 
